@@ -1,0 +1,134 @@
+D:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.exe.config
+D:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.exe
+D:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.pdb
+D:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.xml
+D:\projets 2021\test\WindowsApp1\bin\Debug\fr-FR\SofrelTest.resources.dll
+D:\projets 2021\test\WindowsApp1\obj\Debug\IHMSOFREL.vbprojAssemblyReference.cache
+D:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.FormSplash.resources
+D:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Carte4ai.resources
+D:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Carte_4AO.resources
+D:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Carte_4DO.resources
+D:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.formmenu.resources
+D:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Resources.resources
+D:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.formresultats.resources
+D:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Carte4ai.fr-FR.resources
+D:\projets 2021\test\WindowsApp1\obj\Debug\IHMSOFREL.vbproj.GenerateResource.cache
+D:\projets 2021\test\WindowsApp1\obj\Debug\IHMSOFREL.vbproj.CoreCompileInputs.cache
+D:\projets 2021\test\WindowsApp1\obj\Debug\fr-FR\SofrelTest.resources.dll
+D:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.exe
+D:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.xml
+D:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.pdb
+C:\temp\WindowsApp1\bin\Debug\SofrelTest.exe.config
+C:\temp\WindowsApp1\bin\Debug\SofrelTest.exe
+C:\temp\WindowsApp1\bin\Debug\SofrelTest.pdb
+C:\temp\WindowsApp1\bin\Debug\SofrelTest.xml
+C:\temp\WindowsApp1\bin\Debug\fr-FR\SofrelTest.resources.dll
+C:\temp\WindowsApp1\obj\Debug\IHMSOFREL.vbprojAssemblyReference.cache
+C:\temp\WindowsApp1\obj\Debug\SofrelTest.FormSplash.resources
+C:\temp\WindowsApp1\obj\Debug\SofrelTest.Carte4ai.resources
+C:\temp\WindowsApp1\obj\Debug\SofrelTest.Carte_4AO.resources
+C:\temp\WindowsApp1\obj\Debug\SofrelTest.Carte_4DO.resources
+C:\temp\WindowsApp1\obj\Debug\SofrelTest.formmenu.resources
+C:\temp\WindowsApp1\obj\Debug\SofrelTest.Resources.resources
+C:\temp\WindowsApp1\obj\Debug\SofrelTest.formresultats.resources
+C:\temp\WindowsApp1\obj\Debug\SofrelTest.Carte4ai.fr-FR.resources
+C:\temp\WindowsApp1\obj\Debug\IHMSOFREL.vbproj.GenerateResource.cache
+C:\temp\WindowsApp1\obj\Debug\IHMSOFREL.vbproj.CoreCompileInputs.cache
+C:\temp\WindowsApp1\obj\Debug\fr-FR\SofrelTest.resources.dll
+C:\temp\WindowsApp1\obj\Debug\SofrelTest.exe
+C:\temp\WindowsApp1\obj\Debug\SofrelTest.xml
+C:\temp\WindowsApp1\obj\Debug\SofrelTest.pdb
+G:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.exe.config
+G:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.exe
+G:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.pdb
+G:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.xml
+G:\projets 2021\test\WindowsApp1\bin\Debug\fr-FR\SofrelTest.resources.dll
+G:\projets 2021\test\WindowsApp1\obj\Debug\IHMSOFREL.vbprojAssemblyReference.cache
+G:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.FormSplash.resources
+G:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Carte4ai.resources
+G:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Carte_4AO.resources
+G:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Carte_4DO.resources
+G:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.formmenu.resources
+G:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Resources.resources
+G:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.formresultats.resources
+G:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Carte4ai.fr-FR.resources
+G:\projets 2021\test\WindowsApp1\obj\Debug\IHMSOFREL.vbproj.GenerateResource.cache
+G:\projets 2021\test\WindowsApp1\obj\Debug\IHMSOFREL.vbproj.CoreCompileInputs.cache
+G:\projets 2021\test\WindowsApp1\obj\Debug\fr-FR\SofrelTest.resources.dll
+G:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.exe
+G:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.xml
+G:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.pdb
+C:\WindowsApp1\bin\Debug\SofrelTest.exe.config
+C:\WindowsApp1\bin\Debug\SofrelTest.exe
+C:\WindowsApp1\bin\Debug\SofrelTest.pdb
+C:\WindowsApp1\bin\Debug\SofrelTest.xml
+C:\WindowsApp1\bin\Debug\fr-FR\SofrelTest.resources.dll
+C:\WindowsApp1\obj\Debug\IHMSOFREL.vbprojAssemblyReference.cache
+C:\WindowsApp1\obj\Debug\SofrelTest.FormSplash.resources
+C:\WindowsApp1\obj\Debug\SofrelTest.Carte4ai.resources
+C:\WindowsApp1\obj\Debug\SofrelTest.Carte_4AO.resources
+C:\WindowsApp1\obj\Debug\SofrelTest.Carte_4DO.resources
+C:\WindowsApp1\obj\Debug\SofrelTest.formmenu.resources
+C:\WindowsApp1\obj\Debug\SofrelTest.Resources.resources
+C:\WindowsApp1\obj\Debug\SofrelTest.formresultats.resources
+C:\WindowsApp1\obj\Debug\SofrelTest.Carte4ai.fr-FR.resources
+C:\WindowsApp1\obj\Debug\IHMSOFREL.vbproj.GenerateResource.cache
+C:\WindowsApp1\obj\Debug\IHMSOFREL.vbproj.CoreCompileInputs.cache
+C:\WindowsApp1\obj\Debug\fr-FR\SofrelTest.resources.dll
+C:\WindowsApp1\obj\Debug\SofrelTest.exe
+C:\WindowsApp1\obj\Debug\SofrelTest.xml
+C:\WindowsApp1\obj\Debug\SofrelTest.pdb
+P:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.exe.config
+P:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.exe
+P:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.pdb
+P:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.xml
+P:\projets 2021\test\WindowsApp1\bin\Debug\fr-FR\SofrelTest.resources.dll
+P:\projets 2021\test\WindowsApp1\obj\Debug\IHMSOFREL.vbprojAssemblyReference.cache
+P:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.FormSplash.resources
+P:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Carte4ai.resources
+P:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Carte_4AO.resources
+P:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Carte_4DO.resources
+P:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.formmenu.resources
+P:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Resources.resources
+P:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.formresultats.resources
+P:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Carte4ai.fr-FR.resources
+P:\projets 2021\test\WindowsApp1\obj\Debug\IHMSOFREL.vbproj.GenerateResource.cache
+P:\projets 2021\test\WindowsApp1\obj\Debug\IHMSOFREL.vbproj.CoreCompileInputs.cache
+P:\projets 2021\test\WindowsApp1\obj\Debug\fr-FR\SofrelTest.resources.dll
+P:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.exe
+P:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.xml
+P:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.pdb
+E:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.exe.config
+E:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.exe
+E:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.pdb
+E:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.xml
+E:\projets 2021\test\WindowsApp1\bin\Debug\fr-FR\SofrelTest.resources.dll
+E:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.FormSplash.resources
+E:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Carte4ai.resources
+E:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Carte_4AO.resources
+E:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Carte_4DO.resources
+E:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.formmenu.resources
+E:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Resources.resources
+E:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.formresultats.resources
+E:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.Carte4ai.fr-FR.resources
+E:\projets 2021\test\WindowsApp1\obj\Debug\IHMSOFREL.vbproj.GenerateResource.cache
+E:\projets 2021\test\WindowsApp1\obj\Debug\IHMSOFREL.vbproj.CoreCompileInputs.cache
+E:\projets 2021\test\WindowsApp1\obj\Debug\fr-FR\SofrelTest.resources.dll
+E:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.exe
+E:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.xml
+E:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.pdb
+E:\projets 2021\test\WindowsApp1\obj\Debug\IHMSOFREL.vbprojAssemblyReference.cache
+E:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.exe.manifest
+E:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.application
+E:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.exe.manifest
+E:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.application
+D:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.exe.manifest
+D:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.application
+D:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.exe.manifest
+D:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.application
+G:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.exe.manifest
+G:\projets 2021\test\WindowsApp1\bin\Debug\SofrelTest.application
+G:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.exe.manifest
+G:\projets 2021\test\WindowsApp1\obj\Debug\SofrelTest.application
+E:\projets 2021\test\WindowsApp1\bin\Debug\TextFile1.txt
+G:\projets 2021\test\WindowsApp1\bin\Debug\TextFile1.txt

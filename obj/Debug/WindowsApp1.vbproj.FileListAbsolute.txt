@@ -1,0 +1,43 @@
+E:\test\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\test\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\test\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\test\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\test\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+E:\test\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\test\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\test\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\test\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\test\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\test\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\test\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\projets 2021\test\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\projets 2021\test\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\projets 2021\test\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\projets 2021\test\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+D:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.Carte4ai.resources
+D:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.Carte_4AO.resources
+D:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.Carte_4DO.resources
+D:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+D:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\projets 2021\test\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\projets 2021\test\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\projets 2021\test\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\projets 2021\test\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+E:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.Carte4ai.resources
+E:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.Carte_4AO.resources
+E:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.Carte_4DO.resources
+E:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.choix_des_cartes.resources
+E:\projets 2021\test\WindowsApp1\obj\Debug\WindowsApp1.resultats.resources

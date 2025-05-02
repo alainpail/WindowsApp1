@@ -1,0 +1,33 @@
+﻿I. Installation
+
+
+
+II. Utilisation
+
+1.Le Lancement
+
+Lors du lancement de l'application,celle-ci va lancée aussitot la reconnaissance du banc de test,
+si elle identifie le banc de test elle affichera le numéro du port COM
+Après quelque seconde le menu apparait,le numéro du port COM précédement affiché est indiqué en bas,
+
+
+2.Identification de la carte
+
+Actuellement l'application peut identifier uniquement les carte d'acquisition 4AI,4AO et 4DO.
+Pour lancé l'identification de la carte,appuyez sur le bouton "identification de la carte",
+une foie la carte identifier la page qui gère les test qui lui sont propres s'affiche.
+
+3.Le Choix du test
+
+Avant d'éffectuer les tests,veuillez au préalable selectionner les voies sur lesquels vous voulez effectuer les tests et effectuer les branchements requis.
+ensuite,cliquez ensuite sur le bouton du test choisi.
+
+4.Récupération et affichage des résultats des tests
+
+Pour obtenir les résultats,cliquez sur le bouton "Récupération des résultats",ceux-ci s'afficherront dans la zone de la carte a tester
+
+il est possible d'enregistrer les résultats dans un fichier text avec la date du jour en appuyant sur le bouton "Enregistrer les résultats",
+si plusieur tests sont effectuée le même jours l'heure 
+
+vous pouvez aussi effectuer d'autres test sur la même carte avec le bouton "retour au test".
+vous pouvez revenir au menu avec le bouton "Retour au menu"
